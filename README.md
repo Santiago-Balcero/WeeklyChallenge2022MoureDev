@@ -1,0 +1,2 @@
+# WeeklyChallenge2022MoureDev
+retosdeprogramacion.com/semanales2022
